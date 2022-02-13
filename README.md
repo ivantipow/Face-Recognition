@@ -1,3 +1,4 @@
 # Face Recognition
 
-Facial recognition system
+![low](https://github.com/ivantipow/Face-Recognition/blob/main/faces.png)
+
