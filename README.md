@@ -1,2 +1,3 @@
-# Facial-Recognition
+# Face Recognition
+
 Facial recognition system
